@@ -1,0 +1,90 @@
+body{
+  text-align:center; 
+  background-color:greenyellow; 
+}
+#football{
+  margin-top:100px; 
+  width:260px;
+  margin-bottom: 50px;
+  border-radius: 50px; 
+  border-style: solid;
+  border-color:greenyellow;
+  border-width:10px; 
+}
+#welcome{
+  position:absolute;
+  width:100%;
+  height:450px;
+  left:0;
+  top:0;
+  bottom:0;
+  right:0px;
+  background: linear-gradient(#ff4419 0%, #0a53c9 100%);
+}
+h1{
+  color:black;
+  font-size:50px; 
+  font-family: 'Rajdhani', sans-serif;
+
+}
+h2{
+    color:darkred; 
+  font-family: 'Rajdhani', sans-serif;
+}
+.menu{
+  width:100%;
+  background-color: white;
+  list-style: none;
+  font-family: cursive;
+  margin-top:0px; 
+  position:fixed;
+  top:0px;
+  z-index: 10;
+  cursor: pointer;
+}
+.link{
+  display:inline; 
+  color:black;
+  padding-left:33px;
+  padding-right:25px;
+  font-family: fantasy;
+  font-size: 20px;
+}
+.link:hover{
+  background-color:White;
+  font-size:25px; 
+}
+#contact{
+  background: pink;
+}
+.contact_1 h3{
+  display:inline; 
+}
+
+#secondh2{
+ font-size:30px;
+ font-family: 'Rajdhani', sans-serif;
+
+}
+#h12{
+  color:white; 
+}
+#h19{
+  color:red; 
+}
+#VIDS{
+  background-color: lightcyan;
+}
+#AF{
+  background-color: bisque;
+}
+#h11{
+  color:green
+}
+#h10{
+  color:orangered
+}
+#AM{
+  background-color: lightgray;
+}
+
